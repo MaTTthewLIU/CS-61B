@@ -1,0 +1,55 @@
+
+ This program inserts random Strings of length L
+ into different types of maps as <String, Integer> pairs.
+
+What would you like L to be?: 16]
+Please enter a positive integer: 16'
+Please enter a positive integer: 16
+
+Enter # strings to insert into each map: I am a robot
+Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: 50
+MyHashMap with ArrayList buckets: 0.00 sec
+MyHashMap with LinkedList buckets: 0.00 sec
+MyHashMap with HashSet buckets: 0.00 sec
+MyHashMap with Stack buckets: 0.02 sec
+MyHashMap with ArrayDeque buckets: 0.00 sec
+
+Would you like to try more timed-tests? (y/n)
+
+
+
+
+ This program inserts lexicographically increasing Stringsinto Maps as <String, Integer> pairs.
+
+Enter # strings to insert into ULLMap: I am a robot 1
+Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: ULLMap: 0.00 sec
+
+Enter # strings to insert into MyHashMap: what are you doing here
+Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: 50
+MyHashMap: 0.00 sec
+
+Enter # strings to insert into Java's HashMap: naamsjfs
+Please enter a positive integer: 20
+Java's Built-in HashMap: 0.00 sec
+
+
+
+
+ This program inserts random Strings of length L
+ into different types of maps as <String, Integer> pairs.
+
+What would you like L to be?: 16
+
+Enter # strings to insert into ULLMap: I am MattBoat
+Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: 50
+ULLMap: 0.00 sec
+
+Enter # strings to insert into your MyHashMap: Are you a robot Ai jfnv
+Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: 50
+MyHashMap: 0.00 sec
+
+Enter # strings to insert into Java's HashMap: Jan skv mnbp wg
+Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: Please enter a positive integer: 10
+Java's Built-in HashMap: 0.00 sec
+
+Would you like to try more timed-tests? (y/n)
